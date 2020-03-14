@@ -31,7 +31,7 @@ class Navbar extends Component {
     render() {
         return <div>
             <nav className="navbar navbar-dark bg-primary navbar-expand-lg">
-                <Link to="/" className="navbar-brand">Paytm</Link>
+                <Link to="/" className="navbar-brand">Shopping Site</Link>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
